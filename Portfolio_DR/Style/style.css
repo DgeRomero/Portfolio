@@ -1,0 +1,14 @@
+colores {
+    rojo : #cc5d4c;
+    gris : #5b5847;
+    gris-clarito : #c7d1af;
+    gris-mas-clarito : #fffec6;
+    celestito : #96b49c;
+
+}
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
